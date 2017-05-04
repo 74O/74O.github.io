@@ -1,9 +1,15 @@
 body {
     background-color: darkgrey;
+    font-family: Montserrat,Sans-serif;
+    margin-left: 1em;
 }
 
 h1 {
     color: LightSteelBlue; 
     font-size: 1.5em;
-    margin-left: 20px;
+    margin-left: 2em;
+}
+p {
+	margin-left: 1em;
+	font-size: 1em;
 }
