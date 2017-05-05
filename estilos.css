@@ -1,26 +1,57 @@
 body {
-    margin-left: 30px;
+    margin: 50px 50px 50px 50px;
     background-color: darkgrey;
     font-family: Montserrat,Sans-serif;
 }
 h1 {
     font-size: 1.5em;
     text-transform: uppercase;
+    margin-left: 1em;
 }
 h2 {
+    font-size: 1em;
+    text-transform: uppercase;
+    margin-left: 1em;
+}
+caption {
 	font-size: 1.1em;
 	font-weight: normal;
+	text-transform: uppercase;
 }
 a {
-
+	text-decoration: none;
+	color: black;
+}
+a:hover {
+	text-decoration: underline;
+	color: grey;
+}
+a:visited {
+	color: black;
+	text-decoration: none;
 }
 ul {
 	font-size: 1em;
+	list-style: none;
+	width: 200px;
+}
+li {
 	list-style: circle;
-	border-left: 1px solid white;
+	margin-left: 2em;
+}
+div {
+	margin-top: 1em;
+	padding: 5px;
+	background-color: white;
 }
 p {
 	font-size: 1em;
-	padding: 5px;
-	background-color: white;
+	margin-left: 2em;
+	margin-right: 2em;
+}
+
+
+
+#menu {
+	position: relative;
 }
