@@ -48,6 +48,7 @@ p {
 	font-size: 1em;
 	margin-left: 2em;
 	margin-right: 2em;
+	margin-top: -0.5em;
 }
 
 
@@ -61,4 +62,5 @@ p {
 }
 .en {
 	color: rgb(59, 63, 68);
+	font-style: italic;
 }
