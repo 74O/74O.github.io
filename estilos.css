@@ -55,3 +55,10 @@ p {
 #menu {
 	position: relative;
 }
+
+.es {
+	color: rgb(26, 27, 28);
+}
+.en {
+	color: rgb(59, 63, 68);
+}
