@@ -1,4 +1,4 @@
-body { margin: 0; }
+body { margin: 0; font-family: Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif; }
 	body header { width: 100%; height: 150px; position: absolute; top: 0; background-color: #009933; }
 	body section {}
 		body section #contenido { margin-top: 170px; margin-bottom: 170px; }
